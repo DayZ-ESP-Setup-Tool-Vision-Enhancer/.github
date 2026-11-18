@@ -63,8 +63,6 @@ Boost your awareness in DayZ encounters with this ESP-focused assistant. Highlig
 
 ## 🖼 Preview
 
-![DayZ ESP Overlay](https://wh-satano.ru/storage/media/dayz_multi4.webp)  
-*Real-time loot + player box display with range scaling*
 
 ![Radar Mode](https://www.skycheats.com/uploads/monthly_2025_05/DayZESP.webp.15a2caf96fb4444b837a283a44408f5e.webp)  
 
